@@ -1,0 +1,11 @@
+# maven project kn-project
+/build/
+target/
+bin/
+.classpath
+.project
+.settings/
+
+
+
+
