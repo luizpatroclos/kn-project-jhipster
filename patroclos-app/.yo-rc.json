@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.patroclos.knapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.1",
+    "applicationType": "microservice",
+    "baseName": "patroclosApp",
+    "packageName": "com.patroclos.knapp",
+    "packageFolder": "com/patroclos/knapp",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDA3MDE0N2RiODg2NDNlZWY0NTk4MTJkNzM1N2I0Y2Y4MDM1MWE1YTllYzQxMDZjMWM2NDk0YzA2NWQ0ZTM4MGQxYjRjY2IyZGMxMzA2ZmU1YzRjZjVkYWQyYmU4Y2JiNjM1OWRlM2I1YmE4MjQ5MDk1OWIzMzVhMjNjZjA4MmQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "et"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
