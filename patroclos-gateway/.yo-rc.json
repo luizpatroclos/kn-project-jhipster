@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.patroclos.knapp",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.1",
+        "applicationType": "gateway",
+        "baseName": "patroclosGateway",
+        "packageName": "com.patroclos.knapp",
+        "packageFolder": "com/patroclos/knapp",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "M2Y1MjM0ZmE2Y2NiYjY1ZDA0YzM5MDJlN2ZhNDBmNjgwNjIyZDEyYTQ5MTRhMzU3NTQ0Y2FjOWY2MmEzMDQwMTIyZDA0NzUyNDMwOGMxNWNkOTI0MGZjODI1NjdlZGM5NWE1NzBiY2Q3MjliNGY4YzM3YWQxZDI2Njg3NDdjYWU=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "et"]
+    }
+}
